@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is Dennis. I am currently a senior at Winona State University with a major in Data Science. I have a fond interest in visualizing data, as well as reading tons of articles that utilizes this method to inform and teach others. I hope to do the same in my career in the future, hence, I am using this blog as a stepping stone.  
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I also love food. In my free time, I usually boulder or watch movies. 
