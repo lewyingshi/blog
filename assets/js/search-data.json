@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Penguins at Palmer Station",
-            "content": "![](my_icons/penguin_head.png &quot;Artwork by @allison_horst&quot;) . /bin/sh: -c: line 0: syntax error near unexpected token `my_icons/penguin_head.png&#39; /bin/sh: -c: line 0: `[](my_icons/penguin_head.png &#34;Artwork by @allison_horst&#34;)&#39; . About the data . What I&#39;ve learnt from this data . . Note: According to the Data Use Agreement by the National Science Foundation LTER Network, the data are being updated periodically and the data user should be responsible to check for newer versions. . Location . Flippers and culmen comparison . Penguin size comparison . By island . By sex . More information .",
-            "url": "https://lewyingshi.github.io/blog/makeovermonday/penguins/2020/07/15/penguin-post.html",
-            "relUrl": "/makeovermonday/penguins/2020/07/15/penguin-post.html",
+            "title": "Title",
+            "content": "# Penguins in Antarctica &gt; A brief analysis on the penguins along the Antarctica - toc: true - badges: false - comments: false - author: Dennis Lew - categories: [MakeoverMonday, Penguins] . . About the data . What I&#39;ve learnt from this data . . Note: According to the Data Use Agreement by the National Science Foundation LTER Network, the data are being updated periodically and the data user should be responsible to check for newer versions. . Location . Flippers and culmen comparison . Penguin size comparison . By island . By sex . More information .",
+            "url": "https://lewyingshi.github.io/blog/2020/07/15/penguin-post.html",
+            "relUrl": "/2020/07/15/penguin-post.html",
             "date": " • Jul 15, 2020"
         }
         
