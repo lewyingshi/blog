@@ -2,11 +2,13 @@
 toc: true
 hide: false
 layout: post
-description: A look at the penguins at Palmer Station
+description: "A brief analysis of the penguins at Palmer Station, Antarctica LTER"
+author: Dennis Lew
 categories: [MakeoverMonday, Penguins]
-title: "Penguins at Palmer Station, Antarctica LTER"
+title: "Penguins at Palmer Station"
 ---
-![](/_posts/my_image/penguin_header_img.png “Artwork by @allison_horst”)
+![](my_image/penguin_header_img.png “Artwork by @allison_horst”)
+
 # Penguins at Palmer Station, Antarctica LTER
 
 ## About the data
