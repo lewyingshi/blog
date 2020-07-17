@@ -9,7 +9,7 @@ title: "Penguins at Palmer Station"
 ---
 
 
-![]({{ site.baseurl }}/images/penguin_header_img.png “Artwork by @allison_horst”)
+![Artwork by @allison_horst](https://raw.githubusercontent.com/lewyingshi/blog/master/_posts/penguin_header_img.png)
 
 ## About the data
 
@@ -20,7 +20,7 @@ title: "Penguins at Palmer Station"
 ### Where can they be found?
 
 
-### Which species has a bigger culmen and flippers?
+### Which species has a bigger culmen and longer flippers?
 
 
 ### Penguin size comparison
