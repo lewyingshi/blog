@@ -9,7 +9,7 @@ title: "Penguins at Palmer Station"
 ---
 
 
-![Artwork by @allison_horst](post_images/penguin_header_img.png)
+![Artwork by @allison_horst](assets/penguin_header_img.png)
 
 ## About the data
 
