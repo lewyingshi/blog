@@ -7,7 +7,7 @@ author: Dennis Lew
 categories: [MakeoverMonday, Penguins]
 title: "Penguins at Palmer Station"
 ---
-![](my_image/penguin_header_img.png “Artwork by @allison_horst”)
+![](penguin_header_img.png “Artwork by @allison_horst”)
 
 # Penguins at Palmer Station, Antarctica LTER
 
