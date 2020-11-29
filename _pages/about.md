@@ -18,6 +18,8 @@ Aside from a lot independent learning on becoming better at this craft, I also l
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
-### Current/In-progress project(s):
+## Current/In-progress project(s):
 
 * Visualizing Mt Everest Expeditions
+<br><br>
+[GitHub](https://github.com/lewyingshi) | [LinkedIn](https://www.linkedin.com/in/lewyingshi/) | [Email](mailto:dennislewyings@gmail.com)
