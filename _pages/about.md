@@ -15,9 +15,7 @@ My name is Dennis. I am currently a senior at Winona State University with a maj
 Aside from a lot independent learning on becoming better at this craft, I also love good food, good movies, and good company. 
 
 ***
-<p align="center">
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
+
 ## Current/In-progress project(s):
 
 * Visualizing Mt Everest Expeditions
