@@ -16,8 +16,5 @@ Aside from a lot independent learning on becoming better at this craft, I also l
 
 ***
 
-## Current/In-progress project(s):
-
-* Visualizing Mt Everest Expeditions
 <br><br>
 [GitHub](https://github.com/lewyingshi) | [LinkedIn](https://www.linkedin.com/in/lewyingshi/) | [Email](mailto:dennislewyings@gmail.com)
